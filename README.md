@@ -4,3 +4,4 @@ The data is collected through a survey to understand the driver's behavior regar
 Example Scenario: You are driving from IIT Madras to Chennai Airport along with your family and you get an offer (10 percent discount on the bill) from the famous Chinese restaurant in Guindy. Will you avail of the offer while traveling?
 
 Along with the user response, some basic information about the users is collected.
+https://www.kaggle.com/competitions/marketing-strategy-personalised-offer
